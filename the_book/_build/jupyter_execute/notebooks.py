@@ -62,3 +62,8 @@ ax.legend(custom_lines, ['Cold', 'Medium', 'Hot']);
 
 There is a lot more that you can do with outputs (such as including interactive outputs)
 with your book. For more information about this, see [the Jupyter Book documentation](https://executablebooks.github.io/cli/start/overview.html)
+
+# A change
+
+print('It changed!')
+
