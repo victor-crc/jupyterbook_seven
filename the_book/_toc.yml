@@ -1,8 +1,8 @@
 - file: first
 
 - header: Get started
-- file: intro
-- file: syntax
+- file: start/intro
+- file: start/syntax
 
 - header: Let's read
 - file: content
