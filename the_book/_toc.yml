@@ -1,6 +1,9 @@
-- file: intro
+- header: Get started
+- file: start/intro
+- file: start/syntax
+
+- header: Let's read
 - file: content
   sections:
     - file: markdown
     - file: notebooks
-- file: syntax
